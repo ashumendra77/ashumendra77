@@ -1,9 +1,18 @@
-### Hi there 👋
+<img  align='right' src="https://github-readme-stats.vercel.app/api?username=ashumendra77&count_private=true&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+### Hi there I'm Ashumendra 👋
+
+- 🔭 I’m currently working on [null](https://github.com/ashumendra77)
+- 🌱 I’m currently developing with [flutter](https://flutter.dev/)
+- 📫 How to reach me: ![Email: [ashumendra77](ashumendrapratap77@gmail.com)]
+
 
 <!--
 **ashumendra77/ashumendra77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
