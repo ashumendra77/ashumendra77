@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center"><img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashumendra77&layout=compact&theme=dark" /></p>
+<p align="center"><img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashumendra77&layout=compact&theme=dark" /></p>
