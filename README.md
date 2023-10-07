@@ -2,7 +2,7 @@
 
 ### Hi there I'm Ashumendra 👋
 
-- 🔭 I’m currently working on [null](https://github.com/ashumendra77)
+- 🔭 I’m currently working on [React,javascript,HTML,CSS,Node js,Mongodb](https://github.com/ashumendra77)
 - 🌱 I’m currently developing with [flutter](https://flutter.dev/)
 - 📫 How to reach me: ![Email: [ashumendrapratap77](ashumendrapratap77@gmail.com)]
 
